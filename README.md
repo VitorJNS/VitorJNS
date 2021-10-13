@@ -5,7 +5,6 @@
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estudando para ser Full Stack
 - 📫 Contate-me no email: vitorjosedonascimento2002@gmail.com
-- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/VitorJNS">
