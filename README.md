@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Hoje trabalho com back-end
+- 🔭 Hoje trabalho com node.js
 - 🌱 Estudando para ser Full Stack
 - 📫 Contate-me no email: vitorjosedonascimento2002@gmail.com
 
